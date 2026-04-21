@@ -43,22 +43,9 @@ Currently open to **remote backend opportunities**.
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🌿 Holistic Products Platform] | Full stack web app for a real client. Deployed on VPS with Dokploy | Java · Spring Boot · React · Docker |
-| [🛒 Supermarket E-commerce API]([#](https://github.com/lucianoZG/PruebaTecnicaSupermercado)) | Scalable RESTful API with DevOps best practices | Java · Spring Boot · Docker · SonarQube |
-| [⚖️ Judicial Management System]([#](https://github.com/lucianoZG/Sistema-Presentaciones-Showcase)) | Offline-first native Android app for legal case management | Kotlin · Android · Room · Google APIs |
-| [🥩 Butcher Shop Management]([#](https://github.com/lucianoZG/SistemaCarniceria)) | Full business management solution for a real client | Java · Spring Boot · MySQL · Thymeleaf |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucianoZG&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoZG&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianoZG&theme=tokyonight&hide_border=true"/>
-</p>
+| [🛒 Supermarket E-commerce API](https://github.com/lucianoZG/PruebaTecnicaSupermercado) | Scalable RESTful API with DevOps best practices | Java · Spring Boot · Docker · SonarQube |
+| [⚖️ Judicial Management System](https://github.com/lucianoZG/Sistema-Presentaciones-Showcase) | Offline-first native Android app for legal case management | Kotlin · Android · Room · Google APIs |
+| [🥩 Butcher Shop Management](https://github.com/lucianoZG/SistemaCarniceria) | Full business management solution for a real client | Java · Spring Boot · MySQL · Thymeleaf |
 
 ---
 
